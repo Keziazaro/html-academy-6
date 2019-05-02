@@ -1,0 +1,99 @@
+h1{
+  margin-left:15%;
+
+}
+
+
+body {
+	position:fixed;
+	margin-left:40%;
+	margin-top:15%;
+    width: 350px;
+    padding: 0 10px;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+}
+
+
+
+table{
+border-collapse:collapse;
+
+
+
+
+}
+
+.rock{
+     text-align:left;
+    background-color:darkcyan;
+
+
+}
+
+.sos{
+    background-color:lightblue;
+	text-align:center;
+}
+
+.zulu{
+
+  text-align:right;
+    background-color:darkcyan;
+
+}
+
+th{
+	width:60%;
+  color:white;
+  border-top:1px solid black;
+  border-bottom:1px solid black;
+   padding:10px;
+
+
+}
+
+
+
+td{
+    
+	padding:10px;
+}
+
+tr{
+   width:60%;
+  border-bottom:1px solid lightgrey;
+
+}
+
+
+.cocks{
+  background-color:lightyellow;
+
+
+}
+
+
+.ded{
+
+	background-color:lightyellow;
+}
+
+
+.lol{
+    text-align:right;
+
+}
+
+.lol1{
+    text-align:left;
+
+}
+
+.lol2{
+    text-align:center;
+
+}
+
+
+
